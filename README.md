@@ -15,8 +15,8 @@ Devido à pandemia, a experiência de jogar Magic: The Gathering se tornou um de
 <img src="https://github.com/user-attachments/assets/4a1edfa7-d9f9-4909-991b-f0c405c33857">
 
 <h2>⚠️ Problemas no SpellTable</h2>
-O SpellTable, apesar de oferecer uma solução prática, sofre de um bug crítico que afeta a leitura das cartas em jogo.
-, o sistema muitas vezes falha em identificar corretamente as cartas na mesa. Essa limitação não só compromete a experiência de jogo, mas também pode levar a jogadas incorretas, prejudicando a competitividade e a diversão dos jogadores.
+O SpellTable, apesar de oferecer uma solução prática, sofre de um bug crítico que afeta a leitura das cartas em jogo.<br>
+O sistema muitas vezes falha em identificar corretamente as cartas na mesa. Essa limitação não só compromete a experiência de jogo, mas também pode levar a jogadas incorretas, prejudicando a competitividade e a diversão dos jogadores.
 <br></br>
 <h1>Surge o SpellBoar</h1>
 Diante dessas dificuldades, eu e meus colegas de grupo decidimos desenvolver o "SpellBoar", um novo programa projetado para aprimorar a experiência de jogar Magic online.
