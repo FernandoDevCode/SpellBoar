@@ -32,5 +32,4 @@ O objetivo principal do SpellBoar é replicar e superar a função de identifica
 </ol>
 <br>
 <div align="center"><img src="https://github.com/user-attachments/assets/bb04ecd3-7f3c-4a18-b257-d7162bcfd8ff"></div>
-Neste desenvolvimento, fui responsável por desenvolver o pré-processamento das imagens e um método de comparação entre as imagens capturadas pela câmera do usuário e as imagens em alta resolução das cartas,utilizando-as como referência.
-
+Neste desenvolvimento, fui responsável pelo pré-processamento das imagens e pela criação de um método de comparação entre as imagens capturadas pela câmera do usuário e as imagens em alta resolução das cartas, usadas como referência
