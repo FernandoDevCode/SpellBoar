@@ -7,7 +7,7 @@ O projeto SpellBoar, foi um projeto que desenvolvi em grupo na faculdade com obj
 Magic é um jogo de cartas de estratégia baseado em turnos.
 <img src="https://github.com/user-attachments/assets/a480e6ec-28d7-437c-8560-ef33e76757ea"></div>
 <br></br>
-<h2>Magic na pandemia</h2>
+<h2>Magic em 2020</h2>
 Devido à pandemia, a experiência de jogar Magic: The Gathering se tornou um desafio significativo. Em resposta a essa situação, foi criado o <b>SpellTable</b>, uma plataforma que permite que os jogadores continuem desfrutando do jogo com cartas físicas, mas de forma totalmente online. Usando as câmeras posicionadas sobre seus tabuleiros, os jogadores podem se conectar e competir virtualmente, mantendo a essência do jogo físico mesmo à distância.
 <br></br>
 
